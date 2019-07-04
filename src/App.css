@@ -31,3 +31,8 @@
     transform: rotate(360deg);
   }
 }
+
+.Coin img {
+  height: 150px;
+  width: 150px
+}
